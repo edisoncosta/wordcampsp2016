@@ -1,4 +1,4 @@
-# WordCamp SP 2015
+# WordCamp SP 2016
 
 WooCommerce - Lojas Virtuais de gente GRANDE
 
@@ -16,7 +16,7 @@ Exemplos e Links utilizados na palestra.
 ### MariaDB (Tools MySQL)
 - https://tools.percona.com/dashboard
 
-### Contatos (digitaalm3)
+### Contatos (digitalm3)
 - Email: pablo@digitalm3.com.br
 - Site: https://digitalm3.com.br
 
