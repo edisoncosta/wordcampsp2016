@@ -26,3 +26,4 @@ Exemplos e Links utilizados na palestra.
 - Skype: agiuscloud
 - Facebook: edisonpcosta
 - Linkedin: edisonpcosta
+- EasyExpert: https://easyengine.io/easyexperts/edison-costa/
